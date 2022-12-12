@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-weight: 700;
+  text-decoration: tomato underline wavy;
+  letter-spacing: 20px;
+  font-size: 80px;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 30px;
+}
+
+p {
+  text-align: left;
+  line-height: 1.4;
+  font-family: sans-serif;
+  font-size: 20px;
+}
