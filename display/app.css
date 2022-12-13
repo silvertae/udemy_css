@@ -1,0 +1,28 @@
+div {
+	background-color: olivedrab;
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 10px;
+}
+
+span {
+	background-color: royalblue;
+	color: orange;
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	margin: 10px;
+}
+
+h1 {
+	background-color: midnightblue;
+	color: mintcream;
+	border: 1px solid black;
+	width: 200px;
+	height: 100px;
+	padding: 20px;
+	margin: 30px;
+}

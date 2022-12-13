@@ -1,0 +1,53 @@
+h1 {
+	font-size: 40px;
+	line-height: 200%;
+	border: 1px solid black;
+}
+
+#ems {
+	font-size: 20px;
+}
+
+#ems h2 {
+	font-size: 2em;
+}
+
+#ems h3 {
+	font-size: 1.5em;
+}
+
+#ems ul {
+	font-size: 1.2em;
+}
+
+#rems h2 {
+	font-size: 3rem;
+}
+
+#rems h3 {
+	font-size: 2rem;
+}
+
+#rems ul {
+	font-size: 1.2rem;
+}
+
+button {
+	background-color: palegreen;
+	font-size: 1em;
+	padding: 0 1em;
+	border: 0.3em inset grey;
+	border-radius: 0.5em;
+}
+
+section {
+	background-color: #666;
+	width: 600px;
+	height: 600px;
+}
+
+div {
+	background-color: #ffafcc;
+	width: 50%;
+	height: 50%;
+}
